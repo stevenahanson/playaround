@@ -1,0 +1,25 @@
+{
+  "name": "playaround",
+  "version": "1.0.0",
+  "description": "NodeJs proj",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EssayHanson/playaround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EssayHanson/playaround/issues"
+  },
+  "homepage": "https://github.com/EssayHanson/playaround#readme"
+}
